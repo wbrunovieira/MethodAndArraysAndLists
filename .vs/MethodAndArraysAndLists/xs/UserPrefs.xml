@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EE1D5FA4-AD24-431E-B502-D87D39F1D319}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodAndArraysAndLists/Program.cs">
+    <Files>
+      <File FileName="MethodAndArraysAndLists/Program.cs" Line="79" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodAndArraysAndLists" expanded="True">
+            <Node name="MethodAndArraysAndLists" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MethodAndArraysAndLists PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
